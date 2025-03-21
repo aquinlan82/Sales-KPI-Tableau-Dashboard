@@ -2,7 +2,15 @@
 
 
 Tableau User Story | Sales Performance
-Intorduction
+
+
+![Screenshot of Sales Dashboard](https://github.com/aquinlan82/Sales-KPI-Tableau-Dashboard/blob/main/sales_dash1.png?raw=true)
+
+![Screenshot of Sales Dashboard with filters open](https://github.com/aquinlan82/Sales-KPI-Tableau-Dashboard/blob/main/sales_dash2.png?raw=true)
+
+
+Introduction
+
 
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 Sales Dashboard | Requirements
